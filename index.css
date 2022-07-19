@@ -598,6 +598,14 @@ footer span a{
         
         padding: 0 50px;
     }
+    .home{
+        width: 100vh;
+
+    }
+    section{
+        width: 100vh;
+
+    }
          .menu-btn{
             display: block;
             z-index: 999;
@@ -673,6 +681,14 @@ footer span a{
         
         padding: 0 23px;
     }
+    .home{
+        width: 100vh;
+
+    }
+    section{
+        width: 100vh;
+
+    }
     .home .home-content .text-2{
         font-size: 60px;
        
@@ -696,6 +712,14 @@ footer span a{
 @media (max-width:500px){
     *{
         max-width: 500px;
+    }
+    .home{
+        width: 100vh;
+
+    }
+    section{
+        width: 100vh;
+
     }
   
     .home .home-content .text-2{
