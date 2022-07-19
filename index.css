@@ -595,7 +595,7 @@ footer span a{
 
 @media (max-width:947px){
     *{
-        overflow: hidden;
+        width: 100vh;
     }
     .max-width{
         
@@ -673,7 +673,7 @@ footer span a{
 }
 @media (max-width:690px){
     *{
-        overflow: hidden;
+        width: 100vh;
     }
     .max-width{
         
@@ -701,7 +701,7 @@ footer span a{
 }
 @media (max-width:500px){
     *{
-        overflow: hidden;
+       width: 100vh;
     }
   
     .home .home-content .text-2{
